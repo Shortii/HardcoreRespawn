@@ -1,0 +1,7 @@
+main: me.Noogs.HardcoreRespawn.Main
+name: HardcoreRespawn
+version: 1.0
+author: Noogs
+
+commands:
+  Respawn:
